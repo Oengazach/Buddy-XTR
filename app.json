@@ -8,14 +8,14 @@
   "stack": "container",
   "env": { 
     "SESSION_ID": {
-      "description": "Ensure your session Id starts with Buddy;;;",
+      "description": "Buddy;;;FZYR0K7Y#zXigaM5dbNPI7SZubUudN3i_sySh4_I0G0kN3yOSJO4",
       "required": true,
       "value": ""
     },
     "MODE": {
       "description": "Set to 'public' or 'private' to define bot mode",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "PREFIX": {
       "description": "Your Bot Prefix (default: .)",
